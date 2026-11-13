@@ -1,0 +1,6 @@
+account,role,enabled,mfa,last_login
+demo-admin,admin,yes,no,2026-11-13
+demo-stale,user,yes,yes,2026-08-01
+demo-new,user,yes,yes,
+demo-disabled,admin,no,no,2026-08-01
+demo-active,user,yes,yes,2026-11-12
